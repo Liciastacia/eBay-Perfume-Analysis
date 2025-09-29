@@ -26,3 +26,9 @@ Total Quantity of goods sold
 Number of Available Product
 
 # Visualization
+Screenshot 2025-09-02 144007.png
+Using Bookmark, i was able to add the full file of my visualizations in power bi and a picture screenshot of my visuals so as to be to view my insight properly.
+
+# Conclusion
+This project was used to highlight the power of bookmarking and conserving space for visualization. It helped me create this app like report and perfected my skills in bookmarking. you can interact with the dashboard here
+
